@@ -11,9 +11,9 @@ Welcome to the **Gentoo From Scratch** project! This repo is your one-stop offli
 
 
 - `23p-0559_Muhammad_Taha_BCS(4A)_A#01.pdf` → Complete Gentoo system installation from scratch.
-- `23p-0559_Muhammad_Taha_BCS(4A)_A#02.pdf` → Step-by-step Linux kernel compilation tutorial.
+- `23p-0559_Muhammad_Taha_BCS(4A)_A#02.pdf` → Step-by-step Linux kernel compilation guide.
 
-📄 `note.txt` → My personal notes or tips that helped me during setup. Useful if you want extra hacks or reminders!
+
 
 ---
 
